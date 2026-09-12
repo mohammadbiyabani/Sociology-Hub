@@ -1,0 +1,6 @@
+{
+  "name": "Sociology Study Hub & AI Tutor",
+  "description": "Comprehensive Sociology learning platform for High School, BA, MA, UGC-NET, and UPSC Civil Services students with trilingual AI tutor (English, Hindi, Telugu), 5 scalable modules, model answer generator, and quiz hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
